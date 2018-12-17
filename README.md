@@ -1,0 +1,2 @@
+# MapReduce
+利用mapreduce实现最小二乘计算回归系数，附带数据集与mapper,reducer函数，使用python3编写
